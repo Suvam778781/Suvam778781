@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats-beryl.vercel.app/api?username=suvam7787&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="suvam778781" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvam778781&show_icons=true&locale=en" alt="suvam778781" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvam778781&show_icons=true&locale=en" alt="suvam778781" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvam778781&" alt="suvam778781" /></p>
