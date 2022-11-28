@@ -37,6 +37,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvam778781&show_icons=true&locale=en" alt="suvam778781" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvam778781&" alt="suvam778781" /></p>
-<!-- <p>&nbsp;<img align="center" src="https://github.com/suvam778781/github-readme-activity-graph" alt="suvam778781" /></p> -->
+<p>&nbsp;<img align="middle" width="100%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvam778781&theme=radical" alt="suvam778781" /></p>
 
 
