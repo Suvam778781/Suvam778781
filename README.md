@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suvam Swagatam Panda</h1>
 <h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things smiley. I focuses on writing clean, elegant and efficient code</h3>
 
-<p align="middle"> <img src="https://camo.githubusercontent.com/591bf3579e2484f58aee03bd9ed1bb9a12aab4a271770dfcd5fd3eddca3f0b86/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f302a4647443642557a7a5a7331564a4c75592e676966" alt="suvam778781" /> </p>
+<p align="middle" width="100%"> <img width="100%"src="https://camo.githubusercontent.com/591bf3579e2484f58aee03bd9ed1bb9a12aab4a271770dfcd5fd3eddca3f0b86/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f302a4647443642557a7a5a7331564a4c75592e676966" alt="suvam778781" /> </p>
 
 
 
