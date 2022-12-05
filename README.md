@@ -36,7 +36,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvam778781&show_icons=true&locale=en" alt="suvam778781" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvam778781&" alt="suvam778781" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvam778781&" alt="suvam778781" /></p>
 <p>&nbsp;<img align="middle" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvam778781&theme=radical" alt="suvam778781" /></p>
 </p>
 <p align="middle">&nbsp;<img align="middle" width="100%" height="330px" src="https://activity-graph.herokuapp.com/graph?username=suvam778781&bg_color=0D1117&color=2196f3&line=2196f3&point=FFFFFF&layout=compact" alt="suvam778781" /></p>
