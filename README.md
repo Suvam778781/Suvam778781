@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on *Timelify.com*
 
 - 🌱 I’m currently learning *MERN*
-- 
+
 - 👯 I’m looking to collaborate on *React,JavaScript,ChakraUi,CSS,HTML,NodeJs,NextJs*
 
 - 💬 Ask me about *React,JavaScript,ChakraUi,CSS,HTML,NodeJs,NextJs*
