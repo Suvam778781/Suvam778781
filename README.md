@@ -23,11 +23,9 @@
 <p align="middle">
 <a href="https://codepen.io/https://codepen.io/suvam778781" target="blank"><img align="center" src="https://seeklogo.com/images/C/codepen-logo-FDEB3664F1-seeklogo.com.png" alt="https://codepen.io/suvam778781" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/suvam-swagatam-panda-9ab359236/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/009/097/186/small_2x/blue-color-white-background-linkedin-design-logo-sign-symbol-free-vector.jpg" alt="https://www.linkedin.com/in/suvam-swagatam-panda-9ab359236/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20313302/suvam-panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20313302/suvam-panda" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/recent?workspace=505fb376-cf62-4aeb-bd08-75b2297b1499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent?workspace=505fb376-cf62-4aeb-bd08-75b2297b1499" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/suvamswagatamp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/suvamswagatamp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/suvam778781/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suvam778781/" height="30" width="40" /></a>
-</p>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20313302/suvam-panda" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1220067947798024192/30eZhfxx_400x400.png" alt="https://stackoverflow.com/users/20313302/suvam-panda" height="30" width="40" /></a>
+
+
 
 <div align='center' style="display: flex;" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
